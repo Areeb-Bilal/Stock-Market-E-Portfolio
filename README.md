@@ -44,12 +44,12 @@ Compile the Application: Open a terminal in the source code directory and execut
 
   -  javac PortfolioApp.java
 
-2.	
+
 Run the Application: Start the program by executing:
 
   - java PortfolioApp
 
-3.	
+
 Test Cases
 1.	Add Investment:
 
